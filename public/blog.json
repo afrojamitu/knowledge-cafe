@@ -1,0 +1,38 @@
+[
+    {
+        "id": "101",
+        "AuthorName": "Mr. Razu",
+        "AuthorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHFc75I9riyvYEAH7qCo5F7h-NuRGbyHSucUFMrOBrPLN9LwdDBIRvSRUvDVbQJnWxGc&usqp=CAU",
+        "BlogTitle": "How to get your first job as a self-taught programmer.", 
+        "blogCover": "https://img.freepik.com/free-photo/turned-gray-laptop-computer_400718-47.jpg?size=626&ext=jpg&ga=GA1.1.1265323335.1680203573&semt=sph",
+        "ReadTime": "10",
+        "PublishDate" : "13 April 2022"
+    },
+    {
+        "id": "102",
+        "AuthorName": "Miss Angella",
+        "AuthorImage": "https://professionalwomanmag.com/wp-content/uploads/2018/05/business-woman.jpg",
+        "BlogTitle": "Know how to find a job With Development Skills.", 
+        "blogCover": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.1.1265323335.1680203573&semt=sph",
+        "ReadTime": "5",
+        "PublishDate" : "6 March 2023"
+    },
+    {
+        "id": "103",
+        "AuthorName": "Miss Louise",
+        "AuthorImage": "https://writestylesonline.com/wp-content/uploads/2018/11/Three-Statistics-That-Will-Make-You-Rethink-Your-Professional-Profile-Picture-1024x1024.jpg",
+        "BlogTitle": "Improve your communication skill.", 
+        "blogCover": "https://img.freepik.com/free-photo/aerial-view-business-team_53876-124515.jpg?size=626&ext=jpg&ga=GA1.1.1265323335.1680203573&semt=sph",
+        "ReadTime": "7",
+        "PublishDate" : "15 October 2022"
+    },
+    {
+        "id": "104",
+        "AuthorName": "Andy Smith",
+        "AuthorImage": "https://static.wixstatic.com/media/1c3613_b17802f78fa44cd8ad745ebd3fac7b95~mv2.png/v1/fill/w_498,h_498,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/artifact-a-beautiful-older-man-professional-linkedin-headshot-beige-b-7ffc1c.png",
+        "BlogTitle": "Improve your skill and stay updated.", 
+        "blogCover": "https://img.freepik.com/free-vector/goal-achievement-career-promotion-school-graduation-educational-trajectory-educational-capital-strategy-determine-your-educational-way-concept-pinkish-coral-bluevector-isolated-illustration_335657-1255.jpg?size=626&ext=jpg&ga=GA1.1.1265323335.1680203573&semt=ais",
+        "ReadTime": "20",
+        "PublishDate" : "3 January 2022"
+    }
+]
